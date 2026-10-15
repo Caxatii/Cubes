@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4accd8a05cc4e248c926e6ab20a7df7, type: 3}
+  m_Name: CubeBarConfiguration
+  m_EditorClassIdentifier: 
+  _cubes:
+  - _sprite: {fileID: 1242816256, guid: feffd1e728722424ab9b874948f1c252, type: 3}
+    _color: 1
+  - _sprite: {fileID: 600364123, guid: feffd1e728722424ab9b874948f1c252, type: 3}
+    _color: 1
+  - _sprite: {fileID: 1560568292, guid: feffd1e728722424ab9b874948f1c252, type: 3}
+    _color: 2
+  - _sprite: {fileID: 1045099827, guid: feffd1e728722424ab9b874948f1c252, type: 3}
+    _color: 3
+  - _sprite: {fileID: -1541580293, guid: feffd1e728722424ab9b874948f1c252, type: 3}
+    _color: 4
+  - _sprite: {fileID: -1217827310, guid: feffd1e728722424ab9b874948f1c252, type: 3}
+    _color: 5
+  - _sprite: {fileID: 1164723240, guid: feffd1e728722424ab9b874948f1c252, type: 3}
+    _color: 6
+  - _sprite: {fileID: -1382945440, guid: feffd1e728722424ab9b874948f1c252, type: 3}
+    _color: 7
+  - _sprite: {fileID: -797481516, guid: feffd1e728722424ab9b874948f1c252, type: 3}
+    _color: 8
+  - _sprite: {fileID: 2072291210, guid: feffd1e728722424ab9b874948f1c252, type: 3}
+    _color: 9
+  - _sprite: {fileID: -2078792335, guid: feffd1e728722424ab9b874948f1c252, type: 3}
+    _color: 10
+  - _sprite: {fileID: -1131234571, guid: feffd1e728722424ab9b874948f1c252, type: 3}
+    _color: 7
+  - _sprite: {fileID: 645515405, guid: feffd1e728722424ab9b874948f1c252, type: 3}
+    _color: 11
+  - _sprite: {fileID: -1422958731, guid: feffd1e728722424ab9b874948f1c252, type: 3}
+    _color: 12
+  - _sprite: {fileID: -967029413, guid: feffd1e728722424ab9b874948f1c252, type: 3}
+    _color: 13
+  - _sprite: {fileID: 1510728282, guid: feffd1e728722424ab9b874948f1c252, type: 3}
+    _color: 14
+  - _sprite: {fileID: -1348872440, guid: feffd1e728722424ab9b874948f1c252, type: 3}
+    _color: 15
+  - _sprite: {fileID: 464793259, guid: feffd1e728722424ab9b874948f1c252, type: 3}
+    _color: 9
+  - _sprite: {fileID: 1215184896, guid: feffd1e728722424ab9b874948f1c252, type: 3}
+    _color: 16
+  - _sprite: {fileID: -748754499, guid: feffd1e728722424ab9b874948f1c252, type: 3}
+    _color: 7

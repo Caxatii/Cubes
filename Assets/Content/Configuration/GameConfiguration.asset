@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8ab93c59454fcf40ba5050387e1cdd3, type: 3}
+  m_Name: GameConfiguration
+  m_EditorClassIdentifier: 
+  _cubeBar: {fileID: 11400000, guid: f9ea5b8a03734698a0cfacb9e39f89a9, type: 2}
+  _tower: {fileID: 11400000, guid: b29bf7d1056143afb22b85c24620c8b5, type: 2}
+  _gestures: {fileID: 11400000, guid: 5b4a83f3e0e148bcac253b978d8f8404, type: 2}
+  _animations: {fileID: 11400000, guid: 7cd2337d5bce42458fc023c613fcff95, type: 2}
+  _notifications: {fileID: 11400000, guid: 274806b7a0e7491b8da1ded137f925e0, type: 2}

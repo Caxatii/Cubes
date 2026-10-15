@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 807fa6470dd042028348c5d1bf87d4be, type: 3}
+  m_Name: AnimationConfiguration
+  m_EditorClassIdentifier: 
+  _placementDuration: 0.3
+  _bounceHeight: 60
+  _placementSquash: 0.16
+  _placementStretch: 0.08
+  _placementBounce: 0.09
+  _placementSettleDuration: 0.18
+  _collapseDuration: 0.3
+  _collapseStagger: 0.025
+  _collapseBounceHeight: 12
+  _collapseSquash: 0.12
+  _collapseSettleDuration: 0.22
+  _returnDuration: 0.2
+  _missPeakScale: 1.15
+  _missExpandDuration: 0.1
+  _missShrinkDuration: 0.2
+  _dropDuration: 0.4
+  _dropDistance: 220
