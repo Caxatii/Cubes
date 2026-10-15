@@ -1,0 +1,19 @@
+{
+  "name": "Cubes.Infrastructure",
+  "rootNamespace": "Cubes.Infrastructure",
+  "references": [
+    "Cubes.Application",
+    "Cubes.Domain",
+    "OdinSerializer",
+    "Unity.Localization"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": true,
+  "precompiledReferences": [],
+  "autoReferenced": false,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
