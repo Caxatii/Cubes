@@ -1,0 +1,27 @@
+{
+  "name": "Cubes.Tests.EditMode",
+  "rootNamespace": "Cubes.Tests.EditMode",
+  "references": [
+    "Cubes.Domain",
+    "Cubes.Application",
+    "Cubes.Infrastructure",
+    "Cubes.Presentation",
+    "Cubes.Composition",
+    "Unity.ugui",
+    "Unity.Localization",
+    "Unity.ResourceManager",
+    "OdinSerializer"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "overrideReferences": true,
+  "precompiledReferences": [
+    "nunit.framework.dll",
+    "DOTween.dll"
+  ],
+  "autoReferenced": false,
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ]
+}
